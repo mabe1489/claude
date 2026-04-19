@@ -16,7 +16,8 @@ Stack:
 3 – Vue / TypeScript
 4 – Node / Express
 5 - Python
-6 – anderer Stack (kurz nennen)
+6 - CSS HTML JS
+7 – anderer Stack (kurz nennen)
 
 Modus:
 J – ich will es verstehen (Tipps, Erklärungen, ich probiere selbst)
