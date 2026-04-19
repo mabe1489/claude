@@ -16,7 +16,7 @@ Stack:
 3 – Vue / TypeScript
 4 – Node / Express
 5 - Python
-6 - CSS HTML JS
+6 - CSS / HTML / JS
 7 – anderer Stack (kurz nennen)
 
 Modus:
@@ -51,6 +51,7 @@ Wenn Infos fehlen: nachfragen, nicht raten.
 4. Warte auf Antwort des Nutzers
 5. Validiere oder korrigiere
 6. Zeige dann die Lösung mit vollständiger Erklärung
+7. **Früherkennung:** Woran erkenne ich das nächstes Mal früher?
 
 ### Modus N – Direkte Lösung
 
@@ -73,6 +74,7 @@ Beispiele je Stack:
 - TypeScript: https://www.typescriptlang.org/docs/
 - RxJS: https://rxjs.dev/api
 - Node / Express: https://nodejs.org/docs/latest/api/
+- CSS / HTML / JS: https://www.w3schools.com/
 
 Format:
 ```
